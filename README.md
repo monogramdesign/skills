@@ -14,6 +14,8 @@ The CLI lets you choose which skills to install, and where (project or global).
 
 | Skill | Description |
 | ----- | ----------- |
+| [elevenlabs-demo-video](skills/elevenlabs-demo-video) | Build a narrated product-demo video of a running web app: Playwright screen recording, ElevenLabs voiceover, ffmpeg music bed. |
+| [harvest-entry](skills/harvest-entry) | Turn the day's git commits into a categorized Harvest time-entry note: standup notes, daily logs, and work reports. |
 | [monogram-voice](skills/monogram-voice) | Ghostwrite content in Monogram's brand voice: case studies, technical and AEO blog posts, comparison guides, and announcements that read like monogram.io. |
 
 ### monogram-voice
